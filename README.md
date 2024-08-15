@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [X] Navigation links located on the navbar that direct to the Welcome, Stats and Our Games sections of the page.
+* [X] Each game in the Our Games section displays how much money has been pledged and the goal.
 
 ## Video Walkthrough
 
