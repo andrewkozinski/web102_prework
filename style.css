@@ -102,3 +102,12 @@ button {
     cursor: pointer;
     color: grey;
 }
+
+button {
+    transition: background 0.3s ease-in-out;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #D3D3D3;
+}
