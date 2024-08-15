@@ -17,6 +17,7 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    justify-content: space-between;
 }
 
 .stats-container {
@@ -72,4 +73,32 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.stats-container {
+    display: flex;
+    align-items: center;
+}
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+.nav {
+    display: flex;
+}
+
+.nav a {
+    padding-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    cursor: pointer;
+    color: grey;
 }
